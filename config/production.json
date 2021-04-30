@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://Arjun:Arjun123@devconnecter.rykoi.mongodb.net/<dbname>?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "962ece9f6efb4f7b8ec5",
+  "githubSecret": "f7aae4e4d8fa8016edea3c9c078b8d0e87313764"
+}
